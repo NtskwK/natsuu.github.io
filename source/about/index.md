@@ -10,7 +10,7 @@ top_img: https://s2.loli.net/2023/08/26/SEBurgXyAxTKI7b.png
 
 - 遥感数据工程师
 
-- 刚开始学python
+- python学习中
 
 - 动漫爱好者
 
@@ -26,7 +26,7 @@ top_img: https://s2.loli.net/2023/08/26/SEBurgXyAxTKI7b.png
 
 - ~~专业划水运动员~~
 
-- thinkphp 学习中
+- ~~thinkphp 学习中~~
 
 - Ubuntu 应用部署初学者
 
@@ -58,12 +58,22 @@ fps玩的很烂，于是发誓要成为有存在感的薯条。
 {% endtimeline %}
 {% timeline 2023 %}
 <!-- timeline 3月 -->
-~~ 被拐进某工作室 ~~开始学习`PHP`
+~~被拐进某工作室开始学习`PHP`~~
 <!-- timeline 6月 -->
 开始学习`python`并尝试用于处理`RS data`
+<!-- timeline 7月 -->
+开始学习处理高光谱遥感数据
 <!-- endtimeline -->
 <!-- timeline 10月 -->
 开始学习`web gis`相关技术
+<!-- endtimeline -->
+<!-- timeline 11月 -->
+开始基于无人机影响处理软件`WebODM`进行二次开发
+<!-- endtimeline -->
+{% endtimeline %}
+{% timeline 2024 %}
+<!-- timeline 6月 -->
+开始用`Vue`为`Hydro Roll`维护前端页面
 <!-- endtimeline -->
 {% endtimeline %}
 
