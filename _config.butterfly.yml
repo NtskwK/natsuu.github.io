@@ -23,6 +23,7 @@ menu:
       gh-proxy: https://gh-proxy.natsuu.top/ || fas fa-code-branch
       docker-proxy: https://docker.natsuu.top/ || fab fa-docker
       rsshub: https://rsshub.natsuu.top/ || fas fa-rss
+      Notes: https://space-docs.natsuu.top/ || fas fa-book-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
