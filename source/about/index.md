@@ -68,12 +68,15 @@ fps玩的很烂，于是发誓要成为有存在感的薯条。
 开始学习`web gis`相关技术
 <!-- endtimeline -->
 <!-- timeline 11月 -->
-开始基于无人机影响处理软件`WebODM`进行二次开发
+开始基于无人机影像处理软件`WebODM`进行二次开发
 <!-- endtimeline -->
 {% endtimeline %}
 {% timeline 2024 %}
 <!-- timeline 6月 -->
 开始用`Vue`为`Hydro Roll`维护前端页面
+<!-- endtimeline -->
+<!-- timeline 11月 -->
+基于`CesiumJS`进行前端页面开发
 <!-- endtimeline -->
 {% endtimeline %}
 
